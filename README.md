@@ -1,2 +1,4 @@
 # Pandas
-Pandas scripts
+Pandas scripts and visualizations
+
+
