@@ -3,6 +3,11 @@ Pandas scripts and visualizations
 
 ---
 
+Matplotlib store sales by day of week
+![Certificate Image](https://github.com/WakeSurfin1/Pandas/raw/main/Store_Sales_DOW.jpg)
+
+---
+
 Pandas hex plot of meteor strikes on Earth
 ![Certificate Image](https://github.com/WakeSurfin1/Pandas/raw/main/Pandas2DHexPlot.jpg)
 ---
