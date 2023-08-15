@@ -2,7 +2,7 @@
 Pandas scripts and visualizations
 ---
 
-Matplotlib store sales by day of week
+Store sales by day of week
 ![Certificate Image](https://github.com/WakeSurfin1/Pandas/raw/main/Store_Sales_DOW.jpg)
 ---
 
