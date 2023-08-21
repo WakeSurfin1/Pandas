@@ -1,5 +1,5 @@
 # Pandas
-Pandas scripts and visualizations
+Python Pandas scripts and visualizations
 ---
 
 Store sales by day of week
